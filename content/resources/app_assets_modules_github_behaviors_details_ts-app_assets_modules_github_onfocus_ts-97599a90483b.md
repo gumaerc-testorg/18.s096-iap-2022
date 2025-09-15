@@ -2,7 +2,8 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/18-s096-matrix-calculus-for-machine-learning-and-beyond-january-iap-2022/app_assets_modules_github_behaviors_details_ts-app_assets_modules_github_onfocus_ts-97599a90483b.js
+file: /ol-ocw-studio-app/courses/18-s096-matrix-calculus-for-machine-learning-and-beyond-january-iap-2022/app_assets_modules_github_behaviors_details_ts-app_assets_modules_github_onfocus_ts-97599a90483b.js
+file_size: 8323
 file_type: text/javascript
 image_metadata:
   caption: ''

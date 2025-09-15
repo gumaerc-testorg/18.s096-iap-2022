@@ -2,7 +2,8 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/18-s096-matrix-calculus-for-machine-learning-and-beyond-january-iap-2022/fd_checks.ipynb
+file: /ol-ocw-studio-app/courses/18-s096-matrix-calculus-for-machine-learning-and-beyond-january-iap-2022/fd_checks.ipynb
+file_size: 105281
 file_type: application/octet-stream
 image_metadata:
   caption: ''

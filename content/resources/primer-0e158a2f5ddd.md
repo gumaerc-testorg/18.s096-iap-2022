@@ -2,7 +2,8 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/18-s096-matrix-calculus-for-machine-learning-and-beyond-january-iap-2022/primer-0e158a2f5ddd.css
+file: /ol-ocw-studio-app/courses/18-s096-matrix-calculus-for-machine-learning-and-beyond-january-iap-2022/primer-0e158a2f5ddd.css
+file_size: 285842
 file_type: text/css
 image_metadata:
   caption: ''

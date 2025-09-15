@@ -2,7 +2,8 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/18-s096-matrix-calculus-for-machine-learning-and-beyond-january-iap-2022/notifications-global-47ba35d34d1d.js
+file: /ol-ocw-studio-app/courses/18-s096-matrix-calculus-for-machine-learning-and-beyond-january-iap-2022/notifications-global-47ba35d34d1d.js
+file_size: 11715
 file_type: text/javascript
 image_metadata:
   caption: ''
