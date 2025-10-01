@@ -12,11 +12,11 @@ Lectures: 3 sessions / week, 2 hours / session
 
 ## Prerequisites
 
-Courses in linear algebra (such as [*18.06 Linear Algebra*](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)) and multivariate calculus (such as [*18.02 Multivariable Calculus*](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/))
+Courses in linear algebra (such as {{% resource_link "ceb3caa9-7774-4fa8-a508-63ac9d28aa3f" "*18.06 Linear Algebra*" %}}) and multivariate calculus (such as {{% resource_link "4360a7fa-3c5c-4ca0-8dd7-fe4215106e32" "*18.02 Multivariable Calculus*" %}})
 
 ## Course Description
 
-We all know that calculus courses such as [*18.01 Single Variable Calculus*](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/) and [*18.02 Multivariable Calculus*](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/) cover univariate and vector calculus, respectively. Modern applications such as machine learning require the next big step, matrix calculus.
+We all know that calculus courses such as {{% resource_link "4260fc1b-444e-42c0-9f88-2269f86a1ea7" "*18.01 Single Variable Calculus*" %}} and {{% resource_link "4360a7fa-3c5c-4ca0-8dd7-fe4215106e32" "*18.02 Multivariable Calculus*" %}} cover univariate and vector calculus, respectively. Modern applications such as machine learning require the next big step, matrix calculus.
 
 This class covers a coherent approach to matrix calculus showing techniques that allow you to think of a matrix holistically (not just as an array of scalars), compute derivatives of important matrix factorizations, and really understand forward and reverse modes of differentiation. We will discuss adjoint methods, custom Jacobian matrix vector products, and how modern automatic differentiation is more computer science than mathematics in that it is neither symbolic nor based on finite differences. 
 
